@@ -27,6 +27,7 @@
 - [StreamLine](https://www.streamlinehq.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 - [Iconmonstr](https://iconmonstr.com/)
+- [Svgl](https://svgl.app/)
 
 ### Optimization
 - [Optimize your images](https://squoosh.app/)
