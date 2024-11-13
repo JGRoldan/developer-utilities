@@ -9,7 +9,9 @@
     - [API](#api)
     - [Free DDBB hosting](#free-ddbb-hosting)
     - [Database Manager](#database-manager)
-    
+    - [Mail](#mail)
+  -[Resources](#resources)
+
 ## FrontEnd
 
 ### CSS
@@ -43,3 +45,10 @@
 
 ### Database Manager
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
+
+### Mail
+- [Resend](https://resend.com/)
+
+## Resources
+- [Free For Dev](https://free-for.dev/#/?id=free-fordev)
+- [FreeSets](https://freesets.dev/)
