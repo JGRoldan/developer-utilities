@@ -10,7 +10,7 @@
     - [Free DDBB hosting](#free-ddbb-hosting)
     - [Database Manager](#database-manager)
     - [Mail](#mail)
-  -[Resources](#resources)
+  - [Resources](#resources)
 
 ## FrontEnd
 
